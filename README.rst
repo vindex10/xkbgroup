@@ -241,3 +241,5 @@ There are also complementary files:
 
 * ``xkbgroup/xkb.py`` — the output of the above script, usable for Xlib
   development under Python.
+
+* ``cli/xkb-group.py`` — python cli wrapper. Resembles https://github.com/ierton/xkb-switch
